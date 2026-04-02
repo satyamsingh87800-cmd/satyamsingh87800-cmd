@@ -1,56 +1,54 @@
-# <p align="center">✨ SATYAM SINGH ✨</p>
+# <p align="center"> <ins>🔥 SATYAM SINGH 🔥</ins> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=BCA+Student+%7C+Tech+Enthusiast;Java+Developer+%7C+DSA;Data+Analyst+%7C+Python;Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&pause=1000&color=FFDF00&center=true&vCenter=true&width=500&lines=BCA+STUDENT+🎓;JAVA+DEVELOPER+☕;DATA+ANALYST+📊;DSA+SOLVER+🧠" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Quick Overview
-- 🎓 **Education:** Final year BCA Student.
-- 💼 **Experience:** - *Web Developer* at a Home Car Wash startup.
-  - *Data Analyst & Digital Marketer* at M.ZAVAERI.
-- 🧠 **Focus:** Strengthening **DSA in Java** and exploring **Predictive Modeling**.
+### 🚀 **PROFESSIONAL SUMMARY**
+> **Versatile Developer & Data Analyst** with a proven track record in startup environments. I bridge the gap between **Web Technologies** and **Data-Driven Insights**.
+
+* 🎓 **Academic:** BCA Student (Final Year)
+* 💼 **Experience:** * **Web Developer** @ Home Car Wash Startup (Full-stack focus)
+    * **Data Analyst** @ M.ZAVAERI (Digital Marketing & Analytics)
+* 🛠️ **Currently Learning:** Advanced **DSA in Java** & **Big Data Architectures**
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 💻 **TECHNICAL ARMORY**
 
-| **Field** | **Technologies** |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Data Science** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black) |
-| **Backend/DB** | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql) ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat&logo=fastapi) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) |
+| **CORE** | ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **DATA** | ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy) ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas) ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch) ![PowerBI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) |
+| **BACKEND** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql) ![FastAPI](https://img.shields.io/badge/FASTAPI-005571?style=for-the-badge&logo=fastapi) |
+| **FRONTEND** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3) |
 
 ---
 
-### 📈 GitHub Ecosystem
+### 📊 **GITHUB & LEETCODE STATS**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamsingh87800-cmd&show_icons=true&theme=dark&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF&icon_color=00D1FF&border_color=00D1FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsingh87800-cmd&layout=compact&theme=dark&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF&border_color=00D1FF" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satyamsingh87800-cmd&show_icons=true&theme=highcontrast&border_color=FFDF00&title_color=FFDF00" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsingh87800-cmd&layout=compact&theme=highcontrast&border_color=FFDF00&title_color=FFDF00" width="40%" />
 </p>
 
----
-
-### 💡 LeetCode Performance
 <p align="center">
   <img src="https://leetcode-stats-six.vercel.app/api?username=satyamsingh87800-cmd&theme=dark" alt="LeetCode Stats" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
+### 🌐 **CONNECT WITH ME**
 <p align="center">
 <a href="https://www.instagram.com/_satyam_singh_7/" target="blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="mailto:satyamsingh87800@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyamsingh87800-cmd&color=00D1FF&style=flat-square&label=VISITORS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=satyamsingh87800-cmd&color=FFDF00&style=plastic&label=TOTAL+VISITORS" alt="Views" />
 </p>
-
