@@ -1,4 +1,4 @@
-# <p align="center"> <ins>🔥 SATYAM SINGH 🔥</ins> </p>
+# <p align="center"> <ins> SATYAM SINGH </ins> </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&pause=1000&color=FFDF00&center=true&vCenter=true&width=500&lines=BCA+STUDENT+🎓;JAVA+DEVELOPER+☕;DATA+ANALYST+📊;DSA+SOLVER+🧠" alt="Typing SVG" />
