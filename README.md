@@ -206,6 +206,8 @@ Sole developer and digital marketer for a home-to-home car wash startup.
 | MSME Idea Hackathon 6.0 — Round 1 Cleared | Logistics Misrouting Detection & Alert System |
 | MSME Idea Hackathon 6.0 — Round 1 Cleared | Medicine Expiry & Stock Misplacement Detector |
 | Google Developer Student Clubs (GDSC) | Active Member |
+| Hackathon 2.0 (SSIP) | Project sathi |
+
 
 </div>
 
