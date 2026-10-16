@@ -35,7 +35,7 @@
 
 ```yaml
 name: Satyam Singh
-role: Aspiring Java Backend Developer
+role: Java Backend Developer
 education: BCA Honours, Monark University, Ahmedabad
 focus: Backend Systems • Clean Architecture • Scalable APIs
 background: Solo full-stack developer → Digital marketer → Backend engineer in training
